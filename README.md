@@ -44,7 +44,7 @@ Make sure you have these installed:
 
 ```bash
 git clone https://github.com/Muskan-Sinha/poltic.git
-cd your-repo-name
+cd poltic
 npm install
 npm start
 ```
